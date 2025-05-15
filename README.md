@@ -8,4 +8,9 @@ As of right now, I attend University Prep and I'm part of the class of 2028
  - In the process of making an easy to use PID C++ module for VEX Robotics
  - Have recorded and has experience editing videos (After Effects and Davinci Resolve)
 
-A little bit about me:
+## A little bit about me:
+ - I use he/him pronouns and I identify as gay 🏳️‍🌈
+ - I love cats a LOT!
+ - I'm based in the Seattle area
+ - I love city planning, it's always been an interesting topic to me
+ - I love playing indie rpg video games like Undertale and OneShot.
